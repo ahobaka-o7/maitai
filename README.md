@@ -1,0 +1,2 @@
+# maitai
+Japanese Kanji Bot
